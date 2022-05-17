@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 #
 # Set up environment variables for general build tool to operate
 #
